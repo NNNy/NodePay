@@ -13,7 +13,7 @@
 ## 提供测试卡密自行测试
 ![img_5.png](images/img_5.png)
 
-## 注册
+## 注册(使用我的邀请码免费送一些卡密)
 - 必须使用邀请码才能注册, 可以使用我的或者朋友的都可：https://app.nodepay.ai/register?ref=pPflvJLywbBtc9L
 
 ## 获取np_token
