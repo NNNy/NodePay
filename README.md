@@ -1,5 +1,7 @@
 # NodePay Bot [v1.2]
 
+![img_6.png](images/img_6.png)
+
 ## 版本记录
 - v1.2版本支持官方最新协议
 
